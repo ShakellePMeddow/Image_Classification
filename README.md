@@ -1,3 +1,1 @@
-# object_detection_android
-
-code in refrence to youtube tutorial : https://youtu.be/RDARCjVpg8Q 
+To develop and showcase an image classification system using modern computer vision techniques, demonstrating the capability to accurately recognize and categorize images or videos accross diverse domains
