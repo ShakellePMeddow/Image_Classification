@@ -14,7 +14,7 @@
         android:layout_marginBottom="20dp"
         android:text="select image"
         android:id="@+id/btn"
-        android:backgroundTint="#E91E63"/>
+        android:backgroundTint="#E81E63"/>
 
     <ImageView
         android:layout_width="match_parent"
